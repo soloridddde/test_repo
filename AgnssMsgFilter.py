@@ -25,8 +25,8 @@ while True:
 
     # if cmd_pos1:
     #     data = data[8:]
-    #     print(data)
+    #     print(data)okkkkkk
     #     print("Factory command found")
-    #     continueyeyeye
+    #     continue
     #
-    # print(data) NONONO
+    # print(data)
